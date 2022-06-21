@@ -2,3 +2,5 @@
 .encryptedKey.json
 node_modules
 dist
+yarn.lock
+
